@@ -7,7 +7,7 @@
 </h4>
 
 <h4 align="center">
-  Please Visit <a href="https://www.linkedin.com/in/vishvapalsinhji/" target="_blank"> My proffesional profile </a> to Get More Information About My Work and Skills.
+  Please Visit <a href="https://www.linkedin.com/in/vishvapalsinhji/" target="_blank"> My Proffesional Profile </a> to Get More Information About My Work and Skills.
 </h4>
 
 <div style="display: inline_block;">
