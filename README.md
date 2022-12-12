@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
- I have been working academically and practically in the field of computer science since 2012. My academic achievement allows me to understand the concepts through self-study, guidance and research, while practical experience has taught me to implement various ideas using appropriate tools and programming languages.
+ I have been working academically and practically in the field of computer science since 2012. My academic journey prepared me to understand the concepts through self-study, guidance and research, while practical experience has taught me to implement various ideas using appropriate tools and programming languages.
 </h4>
 
 <h4 align="center">
